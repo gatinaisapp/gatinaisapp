@@ -1,13 +1,9 @@
-## Hi there 👋
+Welcome to my page.
 
-💼 Interested in AI applied to Health data
+Please find my the languages and frameworks that I am familiar with.
+- Programming languages: Python, Java, Matlab, C
+- Frameworks: PyTorch, TensorFlow, MONAI, scikit-learn, OpenCV, Radiomics
+- Deep learning models: U-Net, ResNet, ConvNeXt, Vision Transformers, Foundation Models
+- Training methods: GAN, Semi-supervised Learning, Multi-task Learning
 
-## 🧠 What I Do
-
-- Programming: Python, Java, Matlab, C
-- Deep Learning: PyTorch, TensorFlow, MONAI, scikit-learn, OpenCV, Radiomics
-- Models: U-Net, ResNet, ConvNeXt, Vision Transformers, Foundation Models
-- Methods: GAN, Semi-supervised Learning, Multi-task Learning
-
-- Kaggle challenges
-
+  
